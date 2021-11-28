@@ -1,1 +1,16 @@
-C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.csprojResolveAssemblyReference.cache
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\PatternsExamples.dll.config
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\PatternsExamples.dll
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\PatternsExamples.pdb
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.dll
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\nunit.framework.dll
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.xml
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\bin\Debug\nunit.framework.xml
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.csproj.AssemblyReference.cache
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.csproj.CoreCompileInputs.cache
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.csproj.CopyComplete
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.dll
+C:\sources\repos\Japikse_SolidPatterns\PatternsExamples\obj\Debug\PatternsExamples.pdb
